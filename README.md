@@ -21,4 +21,4 @@ ____
 Our Prototype Video: 
 created with a simple `create_video_ad()` function
 
-[[Our Prototype Video: created with our a simple `create_video_ad()` function](https://img.youtube.com/vi/xqWlsXamNEI/0.jpg)](https://www.youtube.com/watch?v=xqWlsXamNEI)
+[![Our Prototype Video: created with our a simple `create_video_ad()` function](https://img.youtube.com/vi/xqWlsXamNEI/0.jpg)](https://www.youtube.com/watch?v=xqWlsXamNEI)
